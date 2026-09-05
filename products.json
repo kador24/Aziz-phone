@@ -1,0 +1,851 @@
+{
+  "settings": {
+    "store_name": "Aziz Phone",
+    "whatsapp_number": "213665510665",
+    "phone_display": "+213 665 51 06 65",
+    "phone_display_2": "+213 665 50 70 22",
+    "email": "souissiaziz757@gmail.com",
+    "address": "مسعد، ولاية الجلفة — مقابل وكالة موبليس",
+    "facebook_url": "https://www.facebook.com/azizsouissi06",
+    "currency": "د.ج",
+    "is_open": true
+  },
+  "categories": [
+    {
+      "id": "all",
+      "name": "الكل",
+      "icon": "📦"
+    },
+    {
+      "id": "apple",
+      "name": "Apple / iPhone",
+      "icon": "🍎"
+    },
+    {
+      "id": "samsung",
+      "name": "Samsung",
+      "icon": "📱"
+    },
+    {
+      "id": "honor",
+      "name": "Honor",
+      "icon": "📱"
+    },
+    {
+      "id": "xiaomi",
+      "name": "Xiaomi / Redmi",
+      "icon": "📱"
+    },
+    {
+      "id": "oneplus",
+      "name": "OnePlus",
+      "icon": "📱"
+    },
+    {
+      "id": "oppo",
+      "name": "Oppo",
+      "icon": "📱"
+    },
+    {
+      "id": "itel",
+      "name": "Itel / Infinix",
+      "icon": "📱"
+    },
+    {
+      "id": "other",
+      "name": "أخرى",
+      "icon": "🔧"
+    }
+  ],
+  "trust_badges": [
+    {
+      "icon": "✅",
+      "text": "هواتف مفحوصة"
+    },
+    {
+      "icon": "🔄",
+      "text": "بيع وشراء وتبديل"
+    },
+    {
+      "icon": "🛠️",
+      "text": "خدمة إصلاح"
+    },
+    {
+      "icon": "📍",
+      "text": "محل معروف بمسعد"
+    }
+  ],
+  "faq": [
+    {
+      "question": "هل الهواتف المستعملة مضمونة؟",
+      "answer": "نعم، جميع الهواتف تُفحص قبل البيع ونوضح حالة البطارية بدقة."
+    },
+    {
+      "question": "هل يمكن التوصيل؟",
+      "answer": "التوصيل متوفر لبعض المنتجات، تواصل معنا للتأكيد."
+    },
+    {
+      "question": "هل تقبلون التبديل؟",
+      "answer": "نعم، نقبل بيع وشراء وتبديل الهواتف."
+    }
+  ],
+  "ad": null,
+  "products": [
+    {
+      "id": "p001",
+      "name": "Mi 11 T pro   5G",
+      "description": "السعر41000💰💰\nMi 11 T pro   5G \nLecran Amoled 120hz \n256GB/8GB ram \nCpu Snapdragon 888 5G\nCamera 108 mp\nBattery 5000 mah 120 w 🔌🔌\n \n\n📍المحل بولاية مسعد مقابل وكالة موبليس \n\n☎️0665510625☎️\n☎️0665507022☎️",
+      "price": 41000,
+      "old_price": null,
+      "images": [
+        "images/mi-11-t-pro-5g.jpg"
+      ],
+      "category": "xiaomi",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-09-05T11:04:54.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p002",
+      "name": "Honor x50 (x9b)",
+      "description": "السعر:40000💰💰\nHonor x50 (x9b) \nEcran AMOLED 120hrz \n256GB/8GB ram\nSnapdragon 6 gen1\nCamera 108mp\nBattery 5800mah / 35W\n\n#بيع______شراء_______وتبديل الهواتف 😎\n\n🛑 المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 40000,
+      "old_price": null,
+      "images": [
+        "images/honor-x50-x9b.jpg"
+      ],
+      "category": "honor",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-09-03T08:07:05.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p003",
+      "name": "IPhone 13 (2sim) 128GB",
+      "description": "الاسعار ابتدا من 69000💰💰\nIPhone 13 (2sim) 128GB \n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 69000,
+      "old_price": null,
+      "images": [
+        "images/iphone-13-2sim-128gb.jpg"
+      ],
+      "category": "apple",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-09-02T16:30:01.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p004",
+      "name": "IPhone 13 pro max 128GB",
+      "description": "السعر:112000______115000💰💰\nIPhone 13 pro max 128GB \nBattery 86%___90%___91%___93%___94%\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 112000,
+      "old_price": null,
+      "images": [
+        "images/iphone-13-pro-max-128gb.jpg"
+      ],
+      "category": "apple",
+      "type": "phone",
+      "condition": "مستعمل",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-09-02T13:41:21.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p005",
+      "name": "IPhone 11 pro max (2sim) 256GB",
+      "description": "السعر:65000💰💰\nIPhone 11 pro max (2sim) 256GB \nBattery 90%___91%___92%\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 65000,
+      "old_price": null,
+      "images": [
+        "images/iphone-11-pro-max-2sim-256gb.jpg"
+      ],
+      "category": "apple",
+      "type": "phone",
+      "condition": "مستعمل",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-09-02T08:10:50.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p006",
+      "name": "Honor magic 5pro  (2sim)",
+      "description": "السعر: 70000💰💰\nHonor magic 5pro  (2sim)\nLecran LTPO Oled 120Hrz\n256GB/12GB ram\nCpu Snapdragon 8 Gen 2\nCamera 50mp\nBattery 5100mah 66w🔌🔌\n\n🛑الهواتف مستعملة مع فاتورة البيع 💁‍♂️ \n\n#بيع_______شراء_______وتبديل الهواتف 😎\n\n🎯المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 70000,
+      "old_price": null,
+      "images": [
+        "images/honor-magic-5pro-2sim.jpg"
+      ],
+      "category": "honor",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-09-01T21:00:25.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p007",
+      "name": "One plus 12 R 5G",
+      "description": "السعر:65000💰💰\nOne plus 12 R 5G\n512GB/16GB ram\nCpu Snapdragon 8 Gen 2 (4nm)\nCamera 50mp\nBattery 5500mah 100w 🔌🔌\n\n🛑 الهواتف مع فاتورة البيع 💁\n\n#بيع_______شراء________وتبديل الهواتف 😎\n\n🎯المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 65000,
+      "old_price": null,
+      "images": [
+        "images/one-plus-12-r-5g.jpg"
+      ],
+      "category": "oneplus",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-09-01T18:41:27.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p008",
+      "name": "IPhone 13 pro (2sim) 128GB",
+      "description": "السعر:95000💰💰\nIPhone 13 pro (2sim) 128GB \nBattery 90%___91%___92%\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 95000,
+      "old_price": null,
+      "images": [
+        "images/iphone-13-pro-2sim-128gb.jpg"
+      ],
+      "category": "apple",
+      "type": "phone",
+      "condition": "مستعمل",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-09-01T16:16:05.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p009",
+      "name": "IPhone 11 (2sim) 128GB",
+      "description": "السعر:48000_____49000💰💰\nIPhone 11 (2sim) 128GB \nBattery 88%___89%___90____91%___92%\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 48000,
+      "old_price": null,
+      "images": [
+        "images/iphone-11-2sim-128gb.jpg"
+      ],
+      "category": "apple",
+      "type": "phone",
+      "condition": "مستعمل",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-09-01T07:48:31.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p010",
+      "name": "Infinix smart 10",
+      "description": "السعر:17900💰💰\nInfinix smart 10 \n64GB/3+3GB ram \nCamera 8mp \nBattery 5000mah 15w 🔌🔌\n\n🛑الهواتف غير مستعملة مع ضمان 12 شهر 😌\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 17900,
+      "old_price": null,
+      "images": [
+        "images/infinix-smart-10.jpg"
+      ],
+      "category": "itel",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-31T16:49:39.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p011",
+      "name": "One plus 11 R 5G",
+      "description": "السعر:53000💰💰\nOne plus 11 R 5G\nLecran Fluid amoled \n256GB/16GB ram\nCpu Snapdragon 8+ Gen 1 (4nm)\nCamera 50mp\nBattery 5000mah 100w 🔌🔌\n\n#بيع_______شراء________وتبديل الهواتف 😎\n\n🎯المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 53000,
+      "old_price": null,
+      "images": [
+        "images/one-plus-11-r-5g.jpg"
+      ],
+      "category": "oneplus",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-31T13:38:48.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p012",
+      "name": "One plus 12 R 5G",
+      "description": "One plus 12 R 5G\n256GB/12GB ram\nCpu Snapdragon 8 Gen 2 (4nm)\nCamera 50mp\nBattery 5500mah 100w 🔌🔌\n\n🛑 الهواتف مع فاتورة البيع 💁\n\n#بيع_______شراء________وتبديل الهواتف 😎\n\n🎯المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": null,
+      "old_price": null,
+      "images": [
+        "images/one-plus-12-r-5g-2.jpg"
+      ],
+      "category": "oneplus",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-31T08:03:28.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p013",
+      "name": "IPhone 14 pro max (2sim) 256GB",
+      "description": "IPhone 14 pro max (2sim) 256GB \nBattery 90%___91%___92%\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": null,
+      "old_price": null,
+      "images": [
+        "images/iphone-14-pro-max-2sim-256gb.jpg"
+      ],
+      "category": "apple",
+      "type": "phone",
+      "condition": "مستعمل",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-30T22:30:58.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p014",
+      "name": "Itel A50",
+      "description": "السعر:15000💰💰 \nItel A50 \n64B/3+5GB ram\nCamera 8mp \nBattery 5000mah \n\n🛑الهواتف غير مستعملة 💁\n\n#ضمان 12 شهر من شركة 😇\n\n#بيع______شراء _______وتبديل الهواتف 😎\n\n🎯المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 15000,
+      "old_price": null,
+      "images": [
+        "images/itel-a50.jpg"
+      ],
+      "category": "itel",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-30T13:07:01.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p015",
+      "name": "Itel A50",
+      "description": "السعر:15500💰💰 128GB 😍\nItel A50 \n12GB/3+5GB ram\nCamera 8mp \nBattery 5000mah \n\n🛑الهواتف غير مستعملة 💁\n\n#ضمان 12 شهر من شركة 😇\n\n#بيع______شراء _______وتبديل الهواتف 😎\n\n🎯المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 15500,
+      "old_price": null,
+      "images": [
+        "images/itel-a50-2.jpg"
+      ],
+      "category": "itel",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-29T21:16:55.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p016",
+      "name": "Samsung A17",
+      "description": "السعر:37000💰💰\nSamsung A17 \nLecran super amoled 90hz \n128GB/4GB ram\nCpu Exynos 1330\nCamera 50mp\nBattery 5000mah 25w🔌🔌\n\n🛑 الهواتف غير مستعملة مع ضمان 12 شهر من شركة 💁\n\n#بيع_______شراء________وتبديل الهواتف 😎\n\n🎯 المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 37000,
+      "old_price": null,
+      "images": [
+        "images/samsung-a17.jpg"
+      ],
+      "category": "samsung",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-29T17:32:46.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p017",
+      "name": "Itel A100c",
+      "description": "السعر:11000💰💰\nItel A100c \nLecran IPC LCD 90HZ \n64GB/2+4GB ram \nCpu unisoc T 7100\nCamera 8mp \nBattery 5000mah\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 11000,
+      "old_price": null,
+      "images": [
+        "images/itel-a100c.jpg"
+      ],
+      "category": "itel",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-29T10:37:22.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p018",
+      "name": "Samsung A16",
+      "description": "السعر:34800💰💰\nSamsung A16\nLecran super amoled\n128GB/4GB ram\nCpu Helio G99 \nCamera 50mp\nBattery 5000mah 25w🔌🔌\n\n🛑 الهواتف غير مستعملة 💁\n\n#بيع_______شراء________وتبديل الهواتف 😎\n\n🎯المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 34800,
+      "old_price": null,
+      "images": [
+        "images/samsung-a16.jpg"
+      ],
+      "category": "samsung",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-29T10:00:34.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p019",
+      "name": "Honor 100 pro  (2sim)",
+      "description": "السعر: 59500💰💰\nHonor 100 pro  (2sim)\nLecran  Oled 120Hrz\n256GB/16GB ram\nCpu Snapdragon 8 Gen 2\nCamera 50mp\nBattery 5000mah 100w🔌🔌\n\n#بيع_______شراء_______وتبديل الهواتف 😎\n\n🎯المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 59500,
+      "old_price": null,
+      "images": [
+        "images/honor-100-pro-2sim.jpg"
+      ],
+      "category": "honor",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-28T21:23:55.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p020",
+      "name": "Honor magic 6 pro",
+      "description": "الاسعار ابتدا من 93000💰💰\nHonor magic 6 pro  \nLecran LTPO Oled 120Hrz\n256GB/12GB ram\nCpu Snapdragon 8 Gen 3\nCamera 180mp\nBattery 5600mah 80w🔌🔌\nÉtat Battery 91%___98%\n\n#بيع_______شراء_______وتبديل الهواتف 😎\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 93000,
+      "old_price": null,
+      "images": [
+        "images/honor-magic-6-pro.jpg"
+      ],
+      "category": "honor",
+      "type": "phone",
+      "condition": "مستعمل",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-28T13:06:11.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p021",
+      "name": "Samsung A37 5G",
+      "description": "السعر:61000💰💰\nSamsung A37 5G \nLecran super amoled 120hz \n128GB/6GB ram\nCpu Exynos 1480\nCamera 50mp\nBattery 5000mah 45 w🔌🔌\n\n🛑 الهواتف غير مستعملة   💁\n\n#بيع_______شراء_______وتبديل الهواتف 😎\n\n🎯المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 61000,
+      "old_price": null,
+      "images": [
+        "images/samsung-a37-5g.jpg"
+      ],
+      "category": "samsung",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-27T21:50:49.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p022",
+      "name": "Honor x50 (x9b)",
+      "description": "السعر:37000💰💰\nHonor x50 (x9b) \nEcran AMOLED 120hrz \n128GB/8GB ram\nSnapdragon 6 gen1\nCamera 108mp\nBattery 5800mah / 35W\n\n#بيع______شراء_______وتبديل الهواتف 😎\n\n🛑 المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 37000,
+      "old_price": null,
+      "images": [
+        "images/honor-x50-x9b-2.jpg"
+      ],
+      "category": "honor",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-27T16:14:47.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p023",
+      "name": "Iphone 13 pro max 128GB",
+      "description": "الاسعار ابتدا من 112000💰💰\nIphone 13 pro max 128GB \nBattery 89%___90%___93%\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 112000,
+      "old_price": null,
+      "images": [
+        "images/iphone-13-pro-max-128gb-2.jpg"
+      ],
+      "category": "apple",
+      "type": "phone",
+      "condition": "مستعمل",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-27T15:44:02.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p024",
+      "name": "Iphone 13 pro (2sim) 128GB",
+      "description": "السعر ابتدا من 95000💰💰\nIphone 13 pro (2sim) 128GB \nBattery 90%___91%\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 95000,
+      "old_price": null,
+      "images": [
+        "images/iphone-13-pro-2sim-128gb-2.jpg"
+      ],
+      "category": "apple",
+      "type": "phone",
+      "condition": "مستعمل",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-27T13:23:04.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p025",
+      "name": "Honor x50 (x9b)",
+      "description": "السعر:40000💰💰\nHonor x50 (x9b) \nEcran AMOLED 120hrz \n256GB/8GB ram\nSnapdragon 6 gen1\nCamera 108mp\nBattery 5800mah / 35W\n\n#بيع______شراء_______وتبديل الهواتف 😎\n\n🛑 المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 40000,
+      "old_price": null,
+      "images": [
+        "images/honor-x50-x9b-3.jpg"
+      ],
+      "category": "honor",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-27T09:51:46.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p026",
+      "name": "Honor x7e",
+      "description": "السعر:41500💰💰\nHonor x7e \nLecran TFT LCD 120hz \n128GB/6GB ram\nCpu mediatek Helio G81Ultra \nCamera 50mp \nBattery 7500mah 45W 🔌🔌\n\n🛑الهواتف غير مستعملة 💁‍♂️\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 41500,
+      "old_price": null,
+      "images": [
+        "images/honor-x7e.jpg"
+      ],
+      "category": "honor",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-26T16:16:38.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p027",
+      "name": "Honor magic 5pro  (2sim)",
+      "description": "السعر: 72000💰💰 512GB 😍\nHonor magic 5pro  (2sim)\nLecran LTPO Oled 120Hrz\n512GB/12GB ram\nCpu Snapdragon 8 Gen 2\nCamera 50mp\nBattery 5100mah 66w🔌🔌\n\n🛑الهواتف مستعملة مع فاتورة البيع 💁‍♂️ \n\n#بيع_______شراء_______وتبديل الهواتف 😎\n\n🎯المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 72000,
+      "old_price": null,
+      "images": [
+        "images/honor-magic-5pro-2sim-2.jpg"
+      ],
+      "category": "honor",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-26T12:57:47.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p028",
+      "name": "Oppo k13 Turbo  pro",
+      "description": "السعر:74500💰💰 512GB 🙋‍♂️\nOppo k13 Turbo  pro \nLecran Amoled 120hz\n512GB/16GB ram\nCPU Snapdragon 8s gen4\nCamera 50mp\nBattery 7000mah 80w 🔌🔌\n\n🛑 الهواتف غير مستعملة 💁\n\n#بيع______شراء________وتبديل الهواتف 😎\n\n🎯 المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 74500,
+      "old_price": null,
+      "images": [
+        "images/oppo-k13-turbo-pro.jpg"
+      ],
+      "category": "oppo",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-26T09:07:12.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p029",
+      "name": "Iphone 8plus 64GB",
+      "description": "Iphone 8plus 64GB \nBattery 90%__91%__92%__93%__96%__100%\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": null,
+      "old_price": null,
+      "images": [
+        "images/iphone-8plus-64gb.jpg"
+      ],
+      "category": "apple",
+      "type": "phone",
+      "condition": "مستعمل",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-26T08:00:01.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p030",
+      "name": "Redmi  note 12 pro 5G",
+      "description": "السعر :38000💰💰\nRedmi  note 12 pro 5G \nLecran Amoled 120hz \n256GB/8GB ram\nCpu Mediatak Dimensity 1080\nCamera 50mp\nBattery 5000mah 67w 🔌🔌\n\n🛑الهواتف مع فاتورة البيع 💁‍♂️\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 38000,
+      "old_price": null,
+      "images": [
+        "images/redmi-note-12-pro-5g.jpg"
+      ],
+      "category": "xiaomi",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-25T22:05:07.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p031",
+      "name": "Honor magic 5pro  (2sim)",
+      "description": "السعر: 72000💰💰\nHonor magic 5pro  (2sim)\nLecran LTPO Oled 120Hrz\n256GB/12GB ram\nCpu Snapdragon 8 Gen 2\nCamera 50mp\nBattery 5100mah 66w🔌🔌\n\n🛑الهواتف مستعملة مع فاتورة البيع 💁‍♂️ \n\n#بيع_______شراء_______وتبديل الهواتف 😎\n\n🎯المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 72000,
+      "old_price": null,
+      "images": [
+        "images/honor-magic-5pro-2sim-3.jpg"
+      ],
+      "category": "honor",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-25T21:10:21.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p032",
+      "name": "One plus Turbo 6v",
+      "description": "السعر:74500💰💰\nOne plus Turbo 6v\nLecran Amoled 144HZ \n256GB/12GB ram \nCpu Snapdragon 7s Gen 4\nCamera 50mp\nBattery 9000mah 80w 🔌🔌\n🛑الهواتف غير مستعملة 💁‍♂️\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 74500,
+      "old_price": null,
+      "images": [
+        "images/one-plus-turbo-6v.jpg"
+      ],
+      "category": "oneplus",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-25T17:20:22.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p033",
+      "name": "Iphone 11 pro max (2sim) 256GB",
+      "description": "Iphone 11 pro max (2sim) 256GB \nBattery 90%___91%___92%___93%\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": null,
+      "old_price": null,
+      "images": [
+        "images/iphone-11-pro-max-2sim-256gb-2.jpg"
+      ],
+      "category": "apple",
+      "type": "phone",
+      "condition": "مستعمل",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-25T16:50:52.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p034",
+      "name": "Honor x70 (x9d)",
+      "description": "السعر:62000💰💰\nHonor x70 (x9d)\nEcran AMOLED 120hrz \n256GB/12GB ram\nSnapdragon 6 gen4\nCamera 50mp\nBattery 8300mah  80W🔌🔌\n\n🛑 الهاتف مع فاتورة البيع 💁\n\n#بيع______شراء_______وتبديل الهواتف 😎\n\n🛑 المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 62000,
+      "old_price": null,
+      "images": [
+        "images/honor-x70-x9d.jpg"
+      ],
+      "category": "honor",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-25T16:23:42.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p035",
+      "name": "Oppo A6 GT 5G",
+      "description": "السعر:55500💰💰\nOppo A6 GT 5G\nLecran Amoled 120HZ\n256GB/8GB ram\nCPU Snapdragon 7 Gen3 \nCamera 50mp\nBattery 7000mah 80w 🔌🔌\n\n🛑 الهواتف غير مستعملة 💁\n\n#بيع_______شراء________وتبديل الهواتف 😎\n\n🎯 المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 55500,
+      "old_price": null,
+      "images": [
+        "images/oppo-a6-gt-5g.jpg"
+      ],
+      "category": "oppo",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-25T15:47:58.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p036",
+      "name": "Honor x50 (x9b)",
+      "description": "السعر:41000💰💰\nHonor x50 (x9b) \nEcran AMOLED 120hrz \n256GB/12GB ram\nSnapdragon 6 gen1\nCamera 108mp\nBattery 5800mah / 35W\n\n#بيع______شراء_______وتبديل الهواتف 😎\n\n🛑 المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 41000,
+      "old_price": null,
+      "images": [
+        "images/honor-x50-x9b-4.jpg"
+      ],
+      "category": "honor",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-25T09:36:56.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p037",
+      "name": "Mi 11 T pro   5G",
+      "description": "السعر41000💰💰\nMi 11 T pro   5G \nLecran Amoled 120hz \n256GB/8GB ram \nCpu Snapdragon 888 5G\nCamera 108 mp\nBattery 5000 mah 120 w 🔌🔌 \n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 41000,
+      "old_price": null,
+      "images": [
+        "images/mi-11-t-pro-5g-2.jpg"
+      ],
+      "category": "xiaomi",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-25T07:56:48.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p038",
+      "name": "Redmi A7 pro",
+      "description": "السعر:26800💰💰\nRedmi A7 pro \nLecran IPC LCD 120hz \n64GB/4GB ram \nCpu unisoc T7250 \nCamera 13mp\nBattery 6000mah 15w 🔌🔌\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 26800,
+      "old_price": null,
+      "images": [
+        "images/redmi-a7-pro.jpg"
+      ],
+      "category": "xiaomi",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-24T21:46:47.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p039",
+      "name": "Iphone 13 (2sim) 128GB",
+      "description": "Iphone 13 (2sim) 128GB \nBattery 85%___88%___89%___90%___91%____92%__93%\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": null,
+      "old_price": null,
+      "images": [
+        "images/iphone-13-2sim-128gb-2.jpg"
+      ],
+      "category": "apple",
+      "type": "phone",
+      "condition": "مستعمل",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-24T18:19:49.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p040",
+      "name": "Honor magic 7 pro",
+      "description": "السعر: 122000💰💰\nHonor magic 7 pro  \nLecran LTPO Oled 120Hrz\n256GB/12GB ram\nCpu Snapdragon 8 Elite \nCamera 200mp\nBattery 5850mah 100w🔌🔌\n\n#بيع_______شراء_______وتبديل الهواتف 😎\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 122000,
+      "old_price": null,
+      "images": [
+        "images/honor-magic-7-pro.jpg"
+      ],
+      "category": "honor",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-24T16:58:17.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p041",
+      "name": "Redmi Note 14s",
+      "description": "السعر:47000💰💰\nRedmi Note 14s \nLecran amoled 120hz \n256GB/8GB ram \nCPU mediatek Helio G99Ultra \nCamera 200mp\nBattery 5000mah 67w 🔌 🔌\n\n🛑الهواتف غير مستعملة 💁\n\n🎯المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": 47000,
+      "old_price": null,
+      "images": [
+        "images/redmi-note-14s.jpg"
+      ],
+      "category": "xiaomi",
+      "type": "phone",
+      "condition": "جديد",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-24T15:55:09.000Z",
+      "reviews": []
+    },
+    {
+      "id": "p042",
+      "name": "Iphone 11 (2sim) 128GB",
+      "description": "Iphone 11 (2sim) 128GB \nBattery 90%___91%___92%___93%___95%\n\n📍المحل بولاية مسعد مقابل وكالة موبليس",
+      "price": null,
+      "old_price": null,
+      "images": [
+        "images/iphone-11-2sim-128gb-2.jpg"
+      ],
+      "category": "apple",
+      "type": "phone",
+      "condition": "مستعمل",
+      "stock": 999,
+      "status": "available",
+      "delivery_available": true,
+      "created_at": "2026-08-24T13:40:44.000Z",
+      "reviews": []
+    }
+  ]
+}
